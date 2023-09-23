@@ -1,3 +1,4 @@
-# A-Edu (using HTML, CSS, Js)
+# A-Edu 
 <br>
-i am arpit
+(using HTML, CSS, Js)
+
